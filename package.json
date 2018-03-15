@@ -1,0 +1,30 @@
+{
+  "name": "cordova-sms-receiver",
+  "version": "0.1.0",
+  "description": "Simple cordova plugin made exclusively to read incoming messages.",
+  "cordova": {
+    "id": "cordova-plugin-receiver",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbcorrea/cordova-sms-receiver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rbcorrea/cordova-sms-receiver/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "sms",
+    "otp",
+    "cordova"
+  ],
+  "author": {
+    "name": "Rodrigo Correa",
+    "email": "rodrigoxcorrea@gmail.com"
+  },
+  "license": "MIT"
+}
